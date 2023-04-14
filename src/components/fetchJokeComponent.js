@@ -1,7 +1,7 @@
 import axios from "axios";
 const jokeComponent = () => {
-  //fetch("https://icanhazdadjoke.com/", {
-  fetch("https://httpstat.us/404", {
+  fetch("https://icanhazdadjoke.com/", {
+    //fetch("https://httpstat.us/404", {
     headers: {
       Accept: "application/json",
     },
